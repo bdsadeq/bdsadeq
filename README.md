@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter: bdsadeq](https://img.shields.io/twitter/follow/bdsadeq?style=social)](https://twitter.com/bdsadeq)
+[![Linkedin: sadequr](https://img.shields.io/badge/-sadequr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadequr/)](https://www.linkedin.com/in/sadequr/)
+[![GitHub bdsadeq](https://img.shields.io/github/followers/bdsadeq?label=follow&style=social)](https://github.com/bdsadeq)
