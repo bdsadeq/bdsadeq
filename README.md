@@ -21,10 +21,6 @@
 
 
 
-## 📈 GitHub Stats
-
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=bdsadeq&show_icons=true&hide_border=true&count_private=true&theme=transparent&include_all_commits=true)
-
 
 ## 🤝🏻 Connect with Me
 
